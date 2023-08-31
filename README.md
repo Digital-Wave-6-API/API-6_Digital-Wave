@@ -1,7 +1,7 @@
 
 <span id="topo">
 <div align="center">
-<img src="https://github.com/Digital-Wave-6-API/API-6_Digital-Wave/blob/main/Digital%20Wave.png" width="350px" />
+<img src="https://i.ibb.co/QJcShkD/Digital-Wave.png" width="350px" />
 </div>
 <br>
 <br>

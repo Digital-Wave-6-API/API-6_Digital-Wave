@@ -81,17 +81,23 @@ usuários bem definidos
 ## :dart: Escopo do Projeto
 
 ### Requisitos Funcionais:
-- ✅  
-- ✅  
-- ✅  
-- ✅ 
-- ✅   
-- ✅  
+- ✅  Cadastro e autenticação de perfil 
+- ✅  Cadastro e informações de empresas
+- ✅  Criar e detalhar cargo(s)
+- ✅  Notificação de confirmação de início das buscas
+- ✅  Iniciar processo de web scraping
+- ✅  Enviar e-mail à empresa quando estiver concluído
+- ✅  Ranquear os candidatos e exibi-los
+- ✅  Organizar e manter uma base de dados do CHA de diferentes cargos
 
 ### Requisistos Não Funcionais
-- ✅ 
-- ✅   
-- ✅  
-- ✅  
-- ✅  
+- ✅  Documentação com o mapeamento das regras de negócio do cliente
+- ✅  Performance: Eficiência e ágil no tempo de resposta
+- ✅  Segurança: Proteções de todos os dados, autenticação múltiplos fatores
+- ✅  Intuitividade: Design Friendly
+- ✅  Escalabilidade: Crescer em razão de demanda
+- ✅  Compatibilidade: Navegadores (diversos) e dispositivos móveis
+- ✅  Resiliência: Retomar scraping, caso ocorra interrupções
+- ✅  Privacidade: Autenticação protegida e privada
+
 → [Voltar ao topo](#topo)

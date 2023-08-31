@@ -56,7 +56,7 @@ Buscamos solucionar o problema apresentado, adquirindo experiência na metodolog
 
 <p align="left"> 
 
-A Pro4tech é uma empresa especializada em Digital Transformation, comprometida em capacitar negócios para o sucesso na era digital. Combinamos nossa expertise em tecnologias emergentes, como inteligência artificial, análise de dados, IoT e nuvem, aliadas à nossa capacidade de desenvolver estratégias personalizadas para cada negócio. O objetivo é aumentar a eficiência operacional, melhorar a experiência do cliente e impulsionar o crescimento. Juntos, construímos o futuro digital.
+A Pro4tech é uma empresa especializada em Digital Transformation, comprometida em capacitar negócios para o sucesso na era digital. Combinam a expertise em tecnologias emergentes, como inteligência artificial, análise de dados, IoT e nuvem, aliadas à nossa capacidade de desenvolver estratégias personalizadas para cada negócio. O objetivo é aumentar a eficiência operacional, melhorar a experiência do cliente e impulsionar o crescimento. Juntos, construímos o futuro digital.
 
 </p>
 

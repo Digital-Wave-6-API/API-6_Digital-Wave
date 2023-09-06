@@ -101,3 +101,17 @@ usuários bem definidos
 - ✅  Privacidade: Autenticação protegida e privada
 
 → [Voltar ao topo](#topo)
+
+  | Sprint |         Quem?        |                            User Story                           |                                            Por quê?                                           | Importância |
+|:------:|:--------------------:|:---------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:-----------:|
+|    1   |     Usuário  |  Realizar cadastro de usuário  |  Para realizar login, criará vagas e as detalhar, receberá notificação de conclusão de requisição| Baixa |
+|    1   |     Usuário  |  Cadastro de vaga  |   Para iniciar uma petição de Web Scraping        |  Baixa |
+|    1   |     Usuário  |  Descrição de vaga    | Para  selecionar o perfil do candidato de acordo com o necessário   |  Média |
+|    1   |     Usuário  | Acompanhamento de vagas  |   Para gerenciar as vagas  |     Média    |
+|    2   |     Usuário  | Conclusão da tarefa | Para dizer que a procura de currículos para aquela vaga foram encerrados |  Baixa  |
+|    2   |     Sistema  | Disparo de Web Scraping | Para fazer raspagem de dados em sites de vagas de emprego, e encontrar candidatos |  Muito Alta |
+|    2   |     Sistema  | Filtro CHA  | Para auxiliar na determinação do perfil desejado para a vaga   |  Muito Alta |
+|    2   |     Sistema  |Ranqueamento de candidatos  |Para definir os oito candidatos que melhor atende às necessidades da vaga|    Muito Alta    |
+|    2   |     Sistema  | Notificação de resultado | Para ser avisado através de e-mail para a empresa/cliente correspondente   |  Médio |
+
+

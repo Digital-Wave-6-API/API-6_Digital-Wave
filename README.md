@@ -63,13 +63,13 @@ A Pro4tech é uma empresa especializada em Digital Transformation, comprometida 
 → [Voltar ao topo](#topo)
 
 <span id="objetivo">
-Sistema para acompanhamento de serviços utilizando Análise de Dados com perfis de
-usuários bem definidos
+  
   
 ## :bookmark_tabs: Objetivo
 
 <p align="left"> 
 
+O objetivo é criar uma aplicação híbrida/responsiva, que funcione como um serviço de captação de currículos de possíveis candidatos para vagas de emprego, de acordo com o estabelecido por empresas, em sites pré-definidos no sistema. Otimizando o tempo de procura por pessoas qualificadas, e de forma a ser mais assertiva.
 
 
 </p>
@@ -102,16 +102,21 @@ usuários bem definidos
 
 → [Voltar ao topo](#topo)
 
-  | Sprint |         Quem?        |                            User Story                           |                                            Por quê?                                           | Importância |
-|:------:|:--------------------:|:---------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:-----------:|
-|    1   |     Usuário  |  Realizar cadastro de usuário  |  Para realizar login, criará vagas e as detalhar, receberá notificação de conclusão de requisição| Baixa |
-|    1   |     Usuário  |  Cadastro de vaga  |   Para iniciar uma petição de Web Scraping        |  Baixa |
-|    1   |     Usuário  |  Descrição de vaga    | Para  selecionar o perfil do candidato de acordo com o necessário   |  Média |
-|    1   |     Usuário  | Acompanhamento de vagas  |   Para gerenciar as vagas  |     Média    |
-|    2   |     Usuário  | Conclusão da tarefa | Para dizer que a procura de currículos para aquela vaga foram encerrados |  Baixa  |
-|    2   |     Sistema  | Disparo de Web Scraping | Para fazer raspagem de dados em sites de vagas de emprego, e encontrar candidatos |  Muito Alta |
-|    2   |     Sistema  | Filtro CHA  | Para auxiliar na determinação do perfil desejado para a vaga   |  Muito Alta |
-|    2   |     Sistema  |Ranqueamento de candidatos  |Para definir os oito candidatos que melhor atende às necessidades da vaga|    Muito Alta    |
-|    2   |     Sistema  | Notificação de resultado | Para ser avisado através de e-mail para a empresa/cliente correspondente   |  Médio |
+  | Tarefa |         Sprint      |  Importância |
+|:------:|:--------------------:|:-------------:|
+|    1   |    Cadastro de vaga  | Baixa |
+|    1   |    Dashboard/ Acompanhamento de vagas | Importante |
+|    1   |     Base de dados CHA/ IA  | Muito Importante |
+|    2   |    Descrição de vaga |Muito Importante |
+|    2   |    Web Scraping  |  Muito Importante  |
+|    2   |    CRUD vagas de emprego |  Médio |
+|    3   |     Ranque de candidatos |  Importante |
+|    3   |    Notificação via e-mail |  Médio  |
+|    3   |    Validação do cliente/empresa |  Médio |
+|    3   |    Aprimoramento de descrição  | Médio |
+|    4   |    CRUD cadastro de cliente | Médio |
+|    4   |   CRUD cadastro de empresa |Médio | 
+
+
 
 

@@ -102,7 +102,7 @@ O objetivo é criar uma aplicação híbrida/responsiva, que funcione como um se
 
 → [Voltar ao topo](#topo)
 
-  | Tarefa |         Sprint      |  Importância |
+  | Sprint |     Tarefa    |  Importância |
 |:------:|:--------------------:|:-------------:|
 |    1   |    Cadastro de vaga  | Baixa |
 |    1   |    Dashboard/ Acompanhamento de vagas | Importante |

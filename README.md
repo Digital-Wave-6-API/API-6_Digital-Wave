@@ -74,48 +74,49 @@ Pro4tech is a company specialized in Digital Transformation, committed to enabli
 
 </p>
 
-→ [Voltar ao topo](#topo)
+→ [Return the top](#returnthetop)
 
-<span id="escopo-do-projeto">
+<span id="project-scope">
 
-## :dart: Escopo do Projeto
+## :dart: Project Scope
 
-### Requisitos Funcionais:
-- ✅  Cadastro e autenticação de perfil 
-- ✅  Cadastro e informações de empresas
-- ✅  Criar e detalhar cargo(s)
-- ✅  Notificação de confirmação de início das buscas
-- ✅  Iniciar processo de web scraping
-- ✅  Enviar e-mail à empresa quando estiver concluído
-- ✅  Ranquear os candidatos e exibi-los
-- ✅  Organizar e manter uma base de dados do CHA de diferentes cargos
+### Functional Requirements:
+- ✅  Profile registration and authentication 
+- ✅  Company registration and information
+- ✅  Create and detail position(s)
+- ✅  Notification of confirmation of the start of searches
+- ✅  Start web scraping process
+- ✅  Email the company when complete
+- ✅  Rank candidates and display them
+- ✅  Organize and maintain a CHA database of different loads
 
-### Requisistos Não Funcionais
-- ✅  Documentação com o mapeamento das regras de negócio do cliente
-- ✅  Performance: Eficiência e ágil no tempo de resposta
-- ✅  Segurança: Proteções de todos os dados, autenticação múltiplos fatores
-- ✅  Intuitividade: Design Friendly
-- ✅  Escalabilidade: Crescer em razão de demanda
-- ✅  Compatibilidade: Navegadores (diversos) e dispositivos móveis
-- ✅  Resiliência: Retomar scraping, caso ocorra interrupções
-- ✅  Privacidade: Autenticação protegida e privada
 
-→ [Voltar ao topo](#topo)
+### Non-Functional Requirements
+- ✅  Documentation with the mapping of the client's business rules
+- ✅  Performance: Efficiency and Agile response time
+- ✅  Security: All data protections, multi-factor authentication
+- ✅  intuitiveness: Design Friendly
+- ✅  Scalability: Grow with demand
+- ✅  Compatibility: Browsers (various) and mobile devices
+- ✅  Resilience: Resume scraping if interruptions occur
+- ✅  Privacy: Protected and private authentication
 
-  | Sprint |     Tarefa    |  Importância |
+→ [Return the top](#returnthetop)
+
+  | Sprint |     Task   |  Importance |
 |:------:|:--------------------:|:-------------:|
-|    1   |    Cadastro de vaga  | Baixa |
-|    1   |    Dashboard/ Acompanhamento de vagas | Importante |
-|    1   |     Base de dados CHA/ IA  | Muito Importante |
-|    2   |    Descrição de vaga |Muito Importante |
-|    2   |    Web Scraping  |  Muito Importante  |
-|    2   |    CRUD vagas de emprego |  Médio |
-|    3   |     Ranque de candidatos |  Importante |
-|    3   |    Notificação via e-mail |  Médio  |
-|    3   |    Validação do cliente/empresa |  Médio |
-|    3   |    Aprimoramento de descrição  | Médio |
-|    4   |    CRUD cadastro de cliente | Médio |
-|    4   |   CRUD cadastro de empresa |Médio | 
+|    1   |    Vacancy registration  | Low |
+|    1   |    Dashboard/ Vacancy tracking | Important |
+|    1   |    Data base CHA/ IA  | Very Important |
+|    2   |    Job description |Very Important |
+|    2   |    Web Scraping  |  Very Important  |
+|    2   |    Jobs CRUD  |  Medium |
+|    3   |    Rank of candidates |  Important |
+|    3   |    Notification via email |  Medium  |
+|    3   |    Customer/company validation |  Medium |
+|    3   |    Description Enhancement  | Medium |
+|    4   |    customer registration CRUD  | Medium |
+|    4   |    Company registration CRUD | Medium | 
 
 
 

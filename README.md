@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href ="#quem-somos-nós"> Quem somos nós </a> •
+  <a href ="#who-are-we"> Who are we </a> •
   <a href ="#equipe"> Equipe </a> •
   <a href ="#empresa-parceira"> Empresa Parceira </a>  • 
   <a href ="#objetivo"> Objetivo </a>  • 

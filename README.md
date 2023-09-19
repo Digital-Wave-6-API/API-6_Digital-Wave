@@ -8,16 +8,16 @@
 
 <p align="center">
   <a href ="#who-are-we"> Who are we </a> •
-  <a href ="#equipe"> Equipe </a> •
-  <a href ="#empresa-parceira"> Empresa Parceira </a>  • 
-  <a href ="#objetivo"> Objetivo </a>  • 
-  <a href ="#escopo-do-projeto"> Escopo do Projeto </a> •
-  <a href ="#backlog">Backlog </a>  • 
-  <a href ="#gifs">Gifs de apresentação </a>  • 
-  <a href ="#cronograma-das-sprints"> Cronograma </a>  •
-  <a href ="#Documentos"> Documentos </a>  •
-  <a href ="#codigo"> Código </a>  • 
-  <a href ="#tecnologias-utilizadas"> Tecnologias </a>  •
+  <a href ="#team"> Team </a> •
+  <a href ="#partner-company"> Partner Company </a>  • 
+  <a href ="#objective"> Objective </a>  • 
+  <a href ="#project-scope"> Project Scope </a> •
+  <a href ="#backlog"> Backlog </a>  • 
+  <a href ="#presentation-gifs"> Presentation Gifs </a>  • 
+  <a href ="#timeline"> Timeline </a>  •
+  <a href ="#Documents"> Documents </a>  •
+  <a href ="#code"> Code </a>  • 
+  <a href ="#technologies"> Technologies </a>  •
 </p>
 
 
@@ -25,18 +25,18 @@
   
 <hr>
 
-##  :space_invader: Quem somos nós:
+##  :space_invader:Who are we:
 
-Somos um grupo criado para o Projeto Integrador do 6º Semestre de Análise e Desenvolvimento de Sistemas da Faculdade Tecnológica Prof. Jessen Vidal - FATEC São José dos Campos.
-Buscamos solucionar o problema apresentado, adquirindo experiência na metodologia de aprendizado via API e conhecimento de novas tecnologias, para encontrarmos a melhor forma de alcançar o objetivo do grupo.
+We are a group created for the Integrative Project of the 6th Semester of Systems Analysis and Development at the Faculty of Technology Prof. Jessen Vidal - FATEC São José dos Campos.
+We seek to solve the problem presented, acquiring experience in the learning methodology via API and knowledge of new technologies, to find the best way to achieve the group's objective
 
-<span id="equipe">
+<span id="team">
 
-## 👨‍💻 Equipe
+## 👨‍💻 Team
 
 <div align="center">
 
-|    Nome     | Função |      GitHub    |
+|    Name     | Function |      GitHub    |
 |:-----------: |:------|:----------------------------|
 | Dante Demétrius Pereira Silva | Scrum Master | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dantesjc) |
 | Thamires de Souza Barbosa | Product Owner | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thamires-S0uza) |
@@ -47,29 +47,29 @@ Buscamos solucionar o problema apresentado, adquirindo experiência na metodolog
 
 </div>
 
-→ [Voltar ao topo](#topo)
+→ [Return the Top](#returnthetop)
 
 
-<span id="empresa-parceira">
+<span id="partner-company">
 
-## :bookmark_tabs: Empresa Parceira
+## :bookmark_tabs: Partner Company
 
 <p align="left"> 
 
-A Pro4tech é uma empresa especializada em Digital Transformation, comprometida em capacitar negócios para o sucesso na era digital. Combinam a expertise em tecnologias emergentes, como inteligência artificial, análise de dados, IoT e nuvem, aliadas à nossa capacidade de desenvolver estratégias personalizadas para cada negócio. O objetivo é aumentar a eficiência operacional, melhorar a experiência do cliente e impulsionar o crescimento. Juntos, construímos o futuro digital.
+Pro4tech is a company specialized in Digital Transformation, committed to enabling businesses to succeed in the digital era. They combine expertise in emerging technologies, such as artificial intelligence, data analysis, IoT and cloud, combined with our ability to develop personalized strategies for each business. The goal is to increase operational efficiency, improve the customer experience and drive growth. Together, we build the digital future.
 
 </p>
 
-→ [Voltar ao topo](#topo)
+→ [Return the top](#returnthetop)
 
-<span id="objetivo">
+<span id="objective">
   
   
-## :bookmark_tabs: Objetivo
+## :bookmark_tabs: Objective
 
 <p align="left"> 
 
-O objetivo é criar uma aplicação híbrida/responsiva, que funcione como um serviço de captação de currículos de possíveis candidatos para vagas de emprego, de acordo com o estabelecido por empresas, em sites pré-definidos no sistema. Otimizando o tempo de procura por pessoas qualificadas, e de forma a ser mais assertiva.
+Pro4tech is a company specialized in Digital Transformation, committed to enabling businesses to succeed in the digital era. They combine expertise in emerging technologies, such as artificial intelligence, data analysis, IoT and cloud, combined with our ability to develop personalized strategies for each business. The goal is to increase operational efficiency, improve the customer experience and drive growth. Together, we build the digital future.
 
 
 </p>

@@ -47,8 +47,6 @@ We seek to solve the problem presented, acquiring experience in the learning met
 
 </div>
 
-→ [Return the Top](#returnthetop)
-
 
 <span id="partner-company">
 
@@ -60,7 +58,6 @@ Pro4tech is a company specialized in Digital Transformation, committed to enabli
 
 </p>
 
-→ [Return the top](#returnthetop)
 
 <span id="objective">
   
@@ -103,21 +100,33 @@ Pro4tech is a company specialized in Digital Transformation, committed to enabli
 
 → [Return the top](#returnthetop)
 
+<div align="center">
+  
   | Sprint |     Task   |  Importance |
 |:------:|:--------------------:|:-------------:|
-|    1   |    Vacancy registration  | Low |
-|    1   |    Dashboard/ Vacancy tracking | Important |
 |    1   |    Data base CHA/ IA  | Very Important |
-|    2   |    Job description |Very Important |
-|    2   |    Web Scraping  |  Very Important  |
-|    2   |    Jobs CRUD  |  Medium |
-|    3   |    Rank of candidates |  Important |
-|    3   |    Notification via email |  Medium  |
+|    1   |    Web Scraping | Very Important |
+|    1   |   Dashboard/ Vacancy tracking  | Important |
+|    1   |    Vacancy registration | Medium |
+|    2   |   Job description  | Important  |
+|    2   |    Rank of candidates  |  Important  |
+|    2   |    CRUD job openings |  Medium |
+|    2   |    Notification via email |  Medium  |
 |    3   |    Customer/company validation |  Medium |
 |    3   |    Description Enhancement  | Medium |
-|    4   |    customer registration CRUD  | Medium |
-|    4   |    Company registration CRUD | Medium | 
+|    3   |    Profile authentication (MFA)  | Important |
+|    4   |    CRUD customer registration | Medium | 
+|    4   |    CRUD company registration  | Medium   |
+|    4   |    Customer registration/Login |  Low |       
+|    4   |     Company registration       | Low  |
 
+</div>
 
+## :dart: Tecnologias Utilizadas
+- ✅  Ferramentas : Figma, Visual Studio Code, Github.
+- ✅  Meio de comunicação da Equipe : Whatsapp, Discord.
+- ✅  Programação Back-End : Java Web Server-Side, Python, IA.
+- ✅  Programação Front-End : SPA/ Vue.js, SpringBoot.
+- ✅  Banco de Dados : MariaDB.
 
 

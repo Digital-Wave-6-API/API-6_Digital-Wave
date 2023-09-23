@@ -97,6 +97,8 @@ Pro4tech is a company specialized in Digital Transformation, committed to enabli
 
 → [Return the top](#returnthetop)
 
+## :dart: Backlog
+
 <div align="center">
   
   | Sprint |     Task   |  Importance |
@@ -128,6 +130,8 @@ Pro4tech is a company specialized in Digital Transformation, committed to enabli
 
 ## :dart: Timeline
 
+<div align="center">
+
 |                       Period                      | Dates |
 | ------------------------------------------------- | ---- |
 | <input type="checkbox" disabled checked /> Kickoff  |  21/08 -  28/08  |
@@ -136,3 +140,4 @@ Pro4tech is a company specialized in Digital Transformation, committed to enabli
 | <input type="checkbox" disabled /> Sprint 3 | 25/09 - 15/10   |
 | <input type="checkbox" disabled /> Sprint 4 | 06/11 - 26/11   |
 
+</div>

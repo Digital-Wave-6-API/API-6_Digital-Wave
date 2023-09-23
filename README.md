@@ -13,11 +13,8 @@
   <a href ="#objective"> Objective </a>  • 
   <a href ="#project-scope"> Project Scope </a> •
   <a href ="#backlog"> Backlog </a>  • 
-  <a href ="#presentation-gifs"> Presentation Gifs </a>  • 
-  <a href ="#timeline"> Timeline </a>  •
-  <a href ="#Documents"> Documents </a>  •
-  <a href ="#code"> Code </a>  • 
   <a href ="#technologies"> Technologies </a>  •
+  <a href ="#timeline"> Timeline </a>  •
 </p>
 
 
@@ -122,11 +119,20 @@ Pro4tech is a company specialized in Digital Transformation, committed to enabli
 
 </div>
 
-## :dart: Technologies Used
+## :dart: Technologies Used 
 
 - ✅  Tools: Figma, Visual Studio Code, Github.
 - ✅  Back-End Programming: Java Web Server-Side, Python, AI.
 - ✅  Front-End Programming: SPA/ Vue.js, SpringBoot.
 - ✅  Database: MariaDB.
 
+## :dart: Timeline
+
+|                       Period                      | Dates |
+| ------------------------------------------------- | ---- |
+| <input type="checkbox" disabled checked /> Kickoff  |  21/08 -  28/08  |
+| <input type="checkbox" disabled checked /> Sprint1 | 04/09 - 24/09   |
+| <input type="checkbox" disabled /> Sprint 2 | 04/09 - 24/09   |
+| <input type="checkbox" disabled /> Sprint 3 | 25/09 - 15/10   |
+| <input type="checkbox" disabled /> Sprint 4 | 06/11 - 26/11   |
 

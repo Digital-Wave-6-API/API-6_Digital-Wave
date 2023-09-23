@@ -122,11 +122,11 @@ Pro4tech is a company specialized in Digital Transformation, committed to enabli
 
 </div>
 
-## :dart: Tecnologias Utilizadas
-- ✅  Ferramentas : Figma, Visual Studio Code, Github.
-- ✅  Meio de comunicação da Equipe : Whatsapp, Discord.
-- ✅  Programação Back-End : Java Web Server-Side, Python, IA.
-- ✅  Programação Front-End : SPA/ Vue.js, SpringBoot.
-- ✅  Banco de Dados : MariaDB.
+## :dart: Technologies Used
+
+- ✅  Tools: Figma, Visual Studio Code, Github.
+- ✅  Back-End Programming: Java Web Server-Side, Python, AI.
+- ✅  Front-End Programming: SPA/ Vue.js, SpringBoot.
+- ✅  Database: MariaDB.
 
 

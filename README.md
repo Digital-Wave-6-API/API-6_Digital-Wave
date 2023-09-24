@@ -31,7 +31,6 @@ We seek to solve the problem presented, acquiring experience in the learning met
 
 ## 👨‍💻 Team
 
-<div align="center">
 
 |    Name     | Function |      GitHub    |
 |:-----------: |:------|:----------------------------|
@@ -41,8 +40,6 @@ We seek to solve the problem presented, acquiring experience in the learning met
 | Maycon Rafael Cruz Silva | Dev | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MayconRafael) | 
 | Vitoria Moura | Dev | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vitoriasaturnino) | 
 | Vitor Yuri Santos | Dev | [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vitor-y) | 
-
-</div>
 
 
 <span id="partner-company">
@@ -64,7 +61,6 @@ Pro4tech is a company specialized in Digital Transformation, committed to enabli
 <p align="left"> 
 
 Pro4tech is a company specialized in Digital Transformation, committed to enabling businesses to succeed in the digital era. They combine expertise in emerging technologies, such as artificial intelligence, data analysis, IoT and cloud, combined with our ability to develop personalized strategies for each business. The goal is to increase operational efficiency, improve the customer experience and drive growth. Together, we build the digital future.
-
 
 </p>
 
@@ -99,7 +95,6 @@ Pro4tech is a company specialized in Digital Transformation, committed to enabli
 
 ## :dart: Backlog
 
-<div align="center">
   
   | Sprint |     Task   |  Importance |
 |:------:|:--------------------:|:-------------:|
@@ -119,7 +114,6 @@ Pro4tech is a company specialized in Digital Transformation, committed to enabli
 |    4   |    Customer registration/Login |  Low |       
 |    4   |     Company registration       | Low  |
 
-</div>
 
 ## :dart: Technologies Used 
 
@@ -130,7 +124,6 @@ Pro4tech is a company specialized in Digital Transformation, committed to enabli
 
 ## :dart: Timeline
 
-<div align="center">
 
 |                       Period                      | Dates |
 | ------------------------------------------------- | ---- |
@@ -140,4 +133,4 @@ Pro4tech is a company specialized in Digital Transformation, committed to enabli
 | <input type="checkbox" disabled /> Sprint 3 | 25/09 - 15/10   |
 | <input type="checkbox" disabled /> Sprint 4 | 06/11 - 26/11   |
 
-</div>
+

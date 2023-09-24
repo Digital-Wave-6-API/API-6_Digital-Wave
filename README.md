@@ -124,13 +124,14 @@ Pro4tech is a company specialized in Digital Transformation, committed to enabli
 
 ## :dart: Timeline
 
+ 
 
 |                       Period                      | Dates |
 | ------------------------------------------------- | ---- |
-| <input type="checkbox" disabled checked /> Kickoff  |  21/08 -  28/08  |
-| <input type="checkbox" disabled checked /> Sprint1 | 04/09 - 24/09   |
-| <input type="checkbox" disabled /> Sprint 2 | 04/09 - 24/09   |
-| <input type="checkbox" disabled /> Sprint 3 | 25/09 - 15/10   |
-| <input type="checkbox" disabled /> Sprint 4 | 06/11 - 26/11   |
+|  Kickoff  |  21/08 -  28/08  |
+|  Sprint1     |   04/09 - 24/09   |
+|  Sprint 2    | 04/09 - 24/09   |
+|  Sprint 3    | 25/09 - 15/10   |
+|  Sprint 4     | 06/11 - 26/11   |
 
 

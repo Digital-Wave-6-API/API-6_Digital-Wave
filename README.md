@@ -134,4 +134,5 @@ Pro4tech is a company specialized in Digital Transformation, committed to enabli
 |  Sprint 3    | 16/10 - 05/11   |
 |  Sprint 4    | 06/11 - 26/11   |
 
-
+Vídeo Sprint Review 
+https://youtu.be/YPS9RRrKEog

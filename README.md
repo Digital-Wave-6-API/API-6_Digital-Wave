@@ -100,19 +100,22 @@ Pro4tech is a company specialized in Digital Transformation, committed to enabli
 |:------:|:--------------------:|:-------------:|
 |    1   |    Data base CHA/ IA  | Very Important |
 |    1   |    Web Scraping | Very Important |
-|    1   |   Dashboard/ Vacancy tracking  | Important |
+|    1   |    Dashboard/ Vacancy tracking  | Important |
 |    1   |    Vacancy registration | Medium |
-|    2   |   Job description  | Important  |
-|    2   |    Rank of candidates  |  Important  |
+|    2   |   Start Artificial Intelligence  | Important  |
+|    2   |   Consume web scrapping on the front end  |  Important  |
 |    2   |    CRUD job openings |  Medium |
-|    2   |    Notification via email |  Medium  |
-|    3   |    Customer/company validation |  Medium |
-|    3   |    Description Enhancement  | Medium |
+|    2   |    Job description |  Medium  |
+|    2   |    User registration |  Low |
 |    3   |    Profile authentication (MFA)  | Important |
-|    4   |    CRUD customer registration | Medium | 
-|    4   |    CRUD company registration  | Medium   |
-|    4   |    Customer registration/Login |  Low |       
-|    4   |     Company registration       | Low  |
+|    3   |   Rank of candidates  | Important |
+|    3   |    Description Enhancement | Medium | 
+|    3   |    CRUD customer registration  | Medium   |
+|    3   |          Login                 |Low |       
+|    4   |    Notification via email      | Low  |
+|    4   |   Profile Enhancement        | Medium  |
+|    4   |   Dashboard filter         | Low  |
+|    4   |   Customer validation     | Low  |
 
 
 ## :dart: Technologies Used 

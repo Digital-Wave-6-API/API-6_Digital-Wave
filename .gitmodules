@@ -1,0 +1,12 @@
+[submodule "back-end"]
+	path = back-end
+	url = https://github.com/Digital-Wave-6-API/back-end
+[submodule "front-end"]
+	path = front-end
+	url = https://github.com/Digital-Wave-6-API/front-end
+[submodule "web-scraping"]
+	path = web-scraping
+	url = https://github.com/Digital-Wave-6-API/web-scraping
+[submodule "chat-gpt"]
+	path = chat-gpt
+	url = https://github.com/Digital-Wave-6-API/chat-gpt

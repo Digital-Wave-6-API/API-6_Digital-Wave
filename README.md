@@ -102,7 +102,6 @@ Pro4tech is a company specialized in Digital Transformation, committed to enabli
 |    1   |    Web Scraping | Very Important |
 |    1   |    Dashboard/ Vacancy tracking  | Important |
 |    1   |    Vacancy registration | Medium |
-|    2   |   Start Artificial Intelligence  | Important  |
 |    2   |   Consume web scrapping on the front end  |  Important  |
 |    2   |    CRUD job openings |  Medium |
 |    2   |    Job description |  Medium  |

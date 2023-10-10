@@ -139,5 +139,10 @@ Pro4tech is a company specialized in Digital Transformation, committed to enabli
 Vídeo Sprint Review 
 https://youtu.be/YPS9RRrKEog
 
-Task details 
+<hr>
+
+##  :space_invader:Task details:
+
+If you are curious about which task each team member performed, access the link below and visit our Jira.
+
 https://apidigitalwave.atlassian.net/jira/software/projects/KAN/boards/1/timeline?shared=&atlOrigin=eyJpIjoiODc0Nzk1MjUxZTZlNDU3ZmE0MTcyODhkNDdiYTk0ZDAiLCJwIjoiaiJ9

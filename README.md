@@ -93,6 +93,8 @@ Pro4tech is a company specialized in Digital Transformation, committed to enabli
 
 → [Return the top](#returnthetop)
 
+<img src="https://i.ibb.co/2P1GSVB/Minimum-Viable-Product.png" width="450px" />
+
 ## :dart: Backlog
 
   

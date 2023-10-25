@@ -112,9 +112,9 @@ Pro4tech is a company specialized in Digital Transformation, committed to enabli
 |    3   |   Rank of candidates  | Important |
 |    3   |    Description Enhancement | Medium | 
 |    3   |    CRUD customer registration  | Medium   |
-|    3   |          Login                 |Low |       
+|    3   |          Login                 | Medium |
+|    4   |   Profile Enhancement        | Low  |
 |    4   |    Notification via email      | Low  |
-|    4   |   Profile Enhancement        | Medium  |
 |    4   |   Dashboard filter         | Low  |
 |    4   |   Customer validation     | Low  |
 

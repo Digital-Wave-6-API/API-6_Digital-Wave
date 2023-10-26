@@ -111,7 +111,6 @@ Pro4tech is a company specialized in Digital Transformation, committed to enabli
 |    3   |   Rank of candidates  | Important |
 |    3   |    Profile authentication (MFA)  | Medium |
 |    3   |    Description Enhancement | Medium | 
-|    3   |    CRUD customer registration  | Medium   |
 |    3   |          Login                 | Medium |
 |    4   |   Profile Enhancement        | Low  |
 |    4   |    Notification via email      | Low  |

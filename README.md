@@ -60,7 +60,7 @@ Pro4tech is a company specialized in Digital Transformation, committed to enabli
 
 <p align="left"> 
 
-Pro4tech is a company specialized in Digital Transformation, committed to enabling businesses to succeed in the digital era. They combine expertise in emerging technologies, such as artificial intelligence, data analysis, IoT and cloud, combined with our ability to develop personalized strategies for each business. The goal is to increase operational efficiency, improve the customer experience and drive growth. Together, we build the digital future.
+The objective is to create a web application, aimed at recruiting candidates using AI, based on the requirements of a vacancy created by a company registered in the system. The CHA (Knowledge, Skills and Attitudes) must be used to filter CVs, and ranking candidates according to the suitability of the candidates' profile. In the third Sprint, task planning is based on description improvement, in other words, including new components for editing the job description, matching the vacancies, so that they can be ranked. Firstly, the matching and ranking will be done without AI, and then we will apply AI. And for the fourth and final sprint, the improvement and finalization of the Website will be carried out, carrying out low-value tasks.
 
 </p>
 

@@ -111,10 +111,10 @@ The objective is to create a web application, aimed at recruiting candidates usi
 |    3   |   Rank of candidates  | Important |
 |    3   |   Description Enhancement | Medium | 
 |    3   |          Login                 | Medium |
-|    4   |   Profile authentication (MFA)  | Medium |
+|    4   |   Rank Enhancement     | Medium  |
+|    4   |   Profile authentication (MFA)  | Low |
 |    4   |   Profile Enhancement        | Low  |
 |    4   |   Dashboard filter         | Low  |
-|    4   |   Rank Enhancement     | Low  |
 
 
 ## :dart: Technologies Used 
